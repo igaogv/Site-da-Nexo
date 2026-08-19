@@ -1,0 +1,12 @@
+{
+  "name": "site-da-nexo-verification-proxy",
+  "private": true,
+  "scripts": {
+    "vercel-build": "next build"
+  },
+  "dependencies": {
+    "next": "16.2.6",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  }
+}
